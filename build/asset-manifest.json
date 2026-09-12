@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.431dc3ab.css",
+    "main.js": "/static/js/main.8af65d32.js",
+    "static/js/787.0e0ce24c.chunk.js": "/static/js/787.0e0ce24c.chunk.js",
+    "static/media/stamp.png": "/static/media/stamp.8be8af81af74aa20a1d1.png",
+    "static/media/9mobile.png": "/static/media/9mobile.4d7a74f1654a164b19b8.png",
+    "static/media/withdraw.png": "/static/media/withdraw.0cb69263530fa9eb468c.png",
+    "static/media/contacts.png": "/static/media/contacts.6e978d81f65cbd8c8de1.png",
+    "static/media/logo.png": "/static/media/logo.9f26656b509118012136.png",
+    "static/media/utility.png": "/static/media/utility.a7f9376325d124932bb3.png",
+    "static/media/cable.png": "/static/media/cable.bd8dabd02e084e8f8bce.png",
+    "static/media/data.png": "/static/media/data.107148fc21067ed8b167.png",
+    "static/media/history.png": "/static/media/history.fc71109a82b08e3f87fa.png",
+    "static/media/not-found.svg": "/static/media/not-found.bdf1c60c297dc6528f56fe6a382dacdf.svg",
+    "static/media/glo.png": "/static/media/glo.102ea45302233b5db254.png",
+    "static/media/airtel.png": "/static/media/airtel.4e0c8349c43e8725ac51.png",
+    "static/media/MTN.png": "/static/media/MTN.8d4db5418a4e893e9ef6.png",
+    "static/media/avatar.svg": "/static/media/avatar.fa7845edcd17a14cddabc30bcc7c6b26.svg",
+    "static/media/electricity.svg": "/static/media/electricity.4c1f24415cb9b4f67ec6b734c9132d1c.svg",
+    "static/media/earnings.svg": "/static/media/earnings.399272c43aeaaaeda6fe4500c6079f29.svg",
+    "static/media/airtime.svg": "/static/media/airtime.d9fcf1751b255e7fef9ce72103e88d7f.svg",
+    "static/media/facebook.svg": "/static/media/facebook.10025ce8aeb8ed7e1ff17c5c6d959ee9.svg",
+    "index.html": "/index.html",
+    "static/media/data.svg": "/static/media/data.aaeaf1ecc25993df29502f67bee28660.svg",
+    "main.431dc3ab.css.map": "/static/css/main.431dc3ab.css.map",
+    "main.8af65d32.js.map": "/static/js/main.8af65d32.js.map",
+    "787.0e0ce24c.chunk.js.map": "/static/js/787.0e0ce24c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.431dc3ab.css",
+    "static/js/main.8af65d32.js"
+  ]
+}
