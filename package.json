@@ -47,7 +47,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://assalamtelecom.onrender.com/api/v1/",
+  "proxy": "https://spp-up10.onrender.com//api/v1",
   "devDependencies": {
     "autoprefixer": "^10.4.12",
     "postcss": "^8.4.18",
